@@ -1,1 +1,1 @@
-# discover-canvas
+# Discover Canvas
